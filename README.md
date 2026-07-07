@@ -12,9 +12,7 @@ A simple and aesthetic moon-themed webpage created using HTML. This project feat
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
-
-## 👩‍💻 Created By
+  👩‍💻 Created By
 Hemajasree
 
 ---
